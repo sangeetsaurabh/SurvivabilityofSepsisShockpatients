@@ -35,6 +35,7 @@ The general strategy to solve this problem is to build a machine learning model 
 
 ### Other technical requirements
 
-1. In order to run the iPython notebook, access to MIMIC-III database will be required. Detailed information about MIMIC-III database is available at https://mimic.physionet.org/ .
+1. In order to run the iPython notebook, access to MIMIC-III database will be required. Detailed information about MIMIC-III database is available at https://mimic.physionet.org/ . 
+2. In order to run Survivability with severe Sepsis Shock - Data Preparation.ipynb Notebook, MIMIC-III data is required on PostgreSQL database. Once a PostgreSQL database has MIMIC-III data, Notebook will need to be updated with database and user account information. 
 
 
